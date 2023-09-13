@@ -1,6 +1,6 @@
 # Random Mouse Mover
 
-This Python script simulates random mouse movements and clicks on your computer screen, with a specific focus on the taskbar region. The script helps prevent your computer from going into sleep mode or locking the screen during periods of inactivity, ensuring that it remains active and responsive.
+This Python script simulates random mouse movements and clicks on your computer screen, with a specific focus on the taskbar region.
 
 ## Requirements
 
