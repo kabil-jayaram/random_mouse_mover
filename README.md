@@ -14,7 +14,6 @@ This Python script simulates random mouse movements and clicks on your computer 
 2. Run the script by executing the following command:
    ```bash
    python random_mouse_mover.py
-      
 The script will check if the required pyautogui library is installed and install it if necessary.
    
 Sit back and let the script do the work. It will move the mouse cursor randomly around the taskbar region and click occasionally to keep your computer awake.
