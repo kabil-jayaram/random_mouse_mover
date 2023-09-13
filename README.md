@@ -2,12 +2,12 @@
 
 This Python script simulates random mouse movements and clicks on your computer screen, with a specific focus on the taskbar region.
 
-## Requirements
+## Requirements 🌠
 
 - Python 3.x
 - `pyautogui` library (automatically installed if not found)
 
-## How to Use 
+## How to Use ⏸
 
 1. Make sure you have Python 3.x installed on your system.
 
