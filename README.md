@@ -23,6 +23,7 @@ To stop the script, press Ctrl+C. It will exit gracefully.
 ## Customization 🛠
 
 1. You can adjust the time interval between mouse movements by changing the interval variable in the script. This value is in seconds.
+   
    ```bash
    interval = 0.5  # Adjust this value as needed
 
